@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #E19898;
+  gap: 1rem;
+}
+
+.image {
+  width: 3rem;
+}
+h1{
+    background: linear-gradient(to right,#461959,#4D3C77);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
