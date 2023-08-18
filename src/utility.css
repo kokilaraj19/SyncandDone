@@ -2,3 +2,12 @@
     background-color: #4D3C77;
     color: #f4f4f4;
 }
+
+.list-bg{
+    background-color: #FFBA86;
+    color: #333;
+}
+
+.item-font{
+    font-size: 1.5rem;
+}

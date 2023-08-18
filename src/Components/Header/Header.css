@@ -4,6 +4,7 @@
   align-items: center;
   background-color: #E19898;
   gap: 1rem;
+  padding: 1rem                                                             ;
 }
 
 .image {
