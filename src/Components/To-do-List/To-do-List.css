@@ -1,0 +1,37 @@
+.List-container{
+  background-color: #FFBA86;
+  height:70vh;
+  width: 100%;
+  position: relative;
+}
+
+.empty-container{
+  display: flex;
+  padding: 1rem 0;
+  gap: 1rem;
+  max-width: 50rem;
+  margin: auto;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.item-flex{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 1rem;
+  box-shadow: 3px 3px 5px rgba(0,0,0,0.3);
+  padding: 0.8rem;
+}
+
+
+input[type=checkbox]:checked{
+  background-color: green;
+}
+
+.sorting-container{
+  position: absolute;
+  bottom: 0;
+  left: 40%;
+  margin-bottom: 2rem;
+}
